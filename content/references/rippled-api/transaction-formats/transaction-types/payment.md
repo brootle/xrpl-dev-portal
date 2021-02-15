@@ -10,12 +10,12 @@ Payments are also the only way to [create accounts](#creating-accounts).
 ```json
 {
   "TransactionType" : "Payment",
-  "Account" : "rf1BiGeXwwQoi8Z2ueFYTEXSwuJYfV2Jpn",
-  "Destination" : "ra5nK24KXen9AHvsdFTKHSANinZseWnPcX",
+  "Account" : "rf1BiGeXwwQoi8Z2ueFYTEXSwuJYfV2Jpn_earth_reserves",
+  "Destination" : "ra5nK24KXen9AHvsdFTKHSANinZseWnPcX_mars_reserves",
   "Amount" : {
      "currency" : "USD",
-     "value" : "1",
-     "issuer" : "rf1BiGeXwwQoi8Z2ueFYTEXSwuJYfV2Jpn"
+     "value" : "All money on Earth",
+     "issuer" : "rf1BiGeXwwQoi8Z2ueFYTEXSwuJYfV2Jpn_earth_reserves"
   },
   "Fee": "12",
   "Flags": 2147483648,
